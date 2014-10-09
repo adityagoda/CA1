@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello");
             Console.ReadLine();
+            Console.WriteLine("Testing pull request");
+            Console.ReadLine();
         }
     }
 }
