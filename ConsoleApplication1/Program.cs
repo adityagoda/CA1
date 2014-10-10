@@ -16,8 +16,6 @@ namespace ConsoleApplication1
             Console.ReadLine();
             Console.WriteLine("Testing Jenkins integration");
             Console.ReadLine();
-            Console.WriteLine("Testing Jenkins integration 2");
-            Console.ReadLine();
         }
     }
 }
